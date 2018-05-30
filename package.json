@@ -1,0 +1,16 @@
+{
+  "name": "react-native-imageprocess",
+  "version": "1.0.0",
+  "description": "a native imageprocess module",
+  "main": "index.js",
+  "keywords": [
+    "imageprocess"
+  ],
+  "author": "chenfuhao",
+  "license": "ISC",
+  "homepage": "https://github.com/chenfuhao",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenfuhao/react-native-imageprocess.git"
+  },
+}

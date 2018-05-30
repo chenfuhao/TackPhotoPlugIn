@@ -1,0 +1,21 @@
+<resources>
+
+    <style name="flash_lamp_theme" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/flash_lamp_style</item>
+    </style>
+
+    <style name="CustomCheckboxTheme_" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/ic_flashlight_selector</item>
+    </style>
+
+
+    <style name="LoadingDialog" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:windowFrame">@null</item><!--边框 -->
+        <item name="android:windowNoTitle">true</item><!--无标题 -->
+        <item name="android:windowBackground">@drawable/bg_loading_dialog</item><!--背景透明 -->
+        <item name="android:windowIsFloating">true</item><!--是否浮现在activity之上 -->
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowIsTranslucent">false</item><!--半透明 -->
+        <item name="android:backgroundDimEnabled">false</item><!--模糊 -->
+    </style>
+</resources>
