@@ -1,16 +1,22 @@
 {
-  "name": "react-native-imageprocess",
-  "version": "1.0.0",
-  "description": "a native imageprocess module",
-  "main": "index.js",
-  "keywords": [
-    "imageprocess"
-  ],
-  "author": "chenfuhao",
-  "license": "ISC",
-  "homepage": "https://github.com/chenfuhao",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/chenfuhao/react-native-imageprocess.git"
-  },
+	"name": "react-native-imageprocess",
+	"version": "1.0.0",
+	"description": "a native imageprocess module",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/chenfuhao/react-native-imageprocess.git"
+	},
+	"keywords": [
+		"imageprocess"
+	],
+	"author": "chenfuhao",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/chenfuhao/react-native-imageprocess/issues"
+	},
+	"homepage": "https://github.com/chenfuhao/react-native-imageprocess#readme"
 }
